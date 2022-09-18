@@ -8,7 +8,9 @@ body{
 }
 header{
     background-color: #6625a3;
-    height: 101vh;
+    height: fit-content;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 .logo-png{
     width: 9vw;
